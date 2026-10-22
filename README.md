@@ -34,3 +34,7 @@ queries/   one .sql file per topic; each query is preceded by the question it an
 | `04_subqueries_ctes.sql` | Subqueries, CTEs | Planned |
 | `05_window_functions.sql` | ROW_NUMBER, RANK, running totals | Planned |
 | `06_indexing.sql` | EXPLAIN ANALYZE, indexes | Planned |
+
+## License
+MIT
+
